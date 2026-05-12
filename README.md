@@ -5,6 +5,7 @@ Repositório dedicado ao registro de exercícios, projetos e evolução técnica
 Este espaço serve como um portfólio de estudos, focado em dominar a sintaxe do Java, lógica de programação e, futuramente, integração com conceitos de Inteligência Artificial.
 
 📂 Estrutura do Repositório
+
 Calculadora/: Script de calculadora usando soma.
 
 Ordenação/: Aplicação de conceito de ordenação em uma lista.
